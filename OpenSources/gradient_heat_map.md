@@ -1,0 +1,1 @@
+https://javascript.plainenglish.io/creating-color-gradients-for-heat-maps-with-vanilla-javascript-c8d62bdd648e
